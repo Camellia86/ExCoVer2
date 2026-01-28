@@ -1,0 +1,18 @@
+# Language-based Learning Training System - Dependencies
+# Language-based Learning Training System - Requirements
+
+# Core dependencies
+openai>=1.0.0                    # OpenAI API client (for calling Volcano Engine and Gemini)
+
+# Data processing (optional, for result analysis)
+pandas>=1.0.0                    # Data analysis tool
+scikit-learn>=0.24.0             # Machine learning library (for performance evaluation)
+
+# The following are built-in packages, no installation required
+# - json (Python standard library)
+# - os (Python standard library)
+# - base64 (Python standard library)
+# - time (Python standard library)
+# - re (Python standard library)
+# - sys (Python standard library)
+# - typing (Python standard library)
