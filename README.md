@@ -53,7 +53,7 @@ Replace:
 
 ### 2. Dataset Configuration
 
-Prepare your training data in JSON format as `train均匀.json` in the project root directory.
+Prepare your training data in JSON format as `train-uniform.json` in the project root directory.
 
 ### 3. Image Path Configuration
 

@@ -21,7 +21,7 @@ def main():
     print("="*70 + "\n")
 
     # Configuration parameters (production environment)
-    train_json = "train均匀.json"
+    train_json = "train-uniform.json"
     image_path = "/root/autodl-fs/stickers"  # Production environment path
     batch_size = 4  # ✨ Batch size: 4 means call Optimizer after accumulating 4 error samples
 

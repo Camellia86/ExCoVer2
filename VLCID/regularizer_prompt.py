@@ -31,7 +31,7 @@ Confusing Intent Discrimination Rules:
 
 Task Input:
 
-• Confusing intent determination rules table to be updated:
+• Confusing intent discrimination rules table to be updated:
 {similar_intent_display}
 
 """
