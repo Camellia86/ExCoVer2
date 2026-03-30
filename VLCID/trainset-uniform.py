@@ -6,7 +6,7 @@ from collections import defaultdict
 # Fixed random seed for reproducibility
 RANDOM_SEED = 2026
 # Total number of samples to extract (core config: specify total count to extract)
-TARGET_TOTAL_NUM = 100
+TARGET_TOTAL_NUM = 200
 # File path configuration
 INPUT_FILE = "train.json"  # Original training data file
 OUTPUT_SERIAL = "train-uniform.json"  # Custom serial result file
