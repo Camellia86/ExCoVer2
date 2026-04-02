@@ -1,4 +1,4 @@
-# VLCID - Verbalized Learning Module for Confusing Intent Discrimination
+# VRLCID - Verbalized Rules Learning Module for Confusing Intent Discrimination
 
 
 ## Features
